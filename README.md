@@ -13,3 +13,5 @@ Then run the code with:
 ```
 go test
 ```
+
+![Sample output tests](https://github.com/EGetty/CSC462_RAFTLAB/sample_output_tests.png?raw=true)
